@@ -1,0 +1,4 @@
+cup
+spoon
+fork
+tile
